@@ -109,7 +109,7 @@ make install
 ``` shell
 su
 cd /root
-git clone https://github.com/Ape-xCV/Nika-Read-Only.git
+git clone https://github.com/KUZ00/Nika-Read-Only.git
 cd Nika-Read-Only
 mkdir build
 cd build
